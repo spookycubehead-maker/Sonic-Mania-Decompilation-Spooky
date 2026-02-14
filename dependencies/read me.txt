@@ -1,0 +1,1 @@
+The RSDKv5(U) repository is gonna get a lot of updates, so the one included in this repository might be outdated, if you want to update the easiest way is to delete the folder named "RSDKv5", run the update.bat file, and then rename the new folder to "RSDKv5".
