@@ -1,4 +1,4 @@
-This is a modified version of RSDKv5(U) + Sonic Mania mainly for experimental purposes. I would highly recommend using the original decomp instead of this one, unless of course you love breaking things. :)
+This is a modified version of RSDKv5(U) + Sonic Mania, mainly for experimental purposes. I would highly recommend using the original decomp instead of this one, unless of course you love breaking things. :)
 
 I also updated the instuctions for building this fork of the decomp instead of the instructions for the original, for convience sakes.
 
