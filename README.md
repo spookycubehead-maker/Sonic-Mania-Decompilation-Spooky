@@ -2,6 +2,8 @@ This is a modified version of RSDKv5(U) + Sonic Mania mainly for experimental pu
 
 I also updated the instuctions for building this fork of the decomp instead of the instructions for the original, for convience sakes.
 
+If you are looking for the prebuilt files for Sonic Mania, they are built in to the RSDKv5(U) prebuilt files, which you can find here: [Click me](https://github.com/spookycubehead-maker/RSDKv5-Decompilation-Spooky/releases)
+
 #
 
 # **SUPPORT THE OFFICIAL RELEASE OF SONIC MANIA (PLUS)**
